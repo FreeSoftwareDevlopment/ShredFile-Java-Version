@@ -1,0 +1,4 @@
+ShredFile Java Version
+<c> Sharkbyteprojects
+usage: java -jar shredfile.jar file1
+This app only Shred, for more use https://github.com/Sharkbyteprojects/shredFile
